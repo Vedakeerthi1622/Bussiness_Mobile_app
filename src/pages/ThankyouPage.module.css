@@ -1,0 +1,325 @@
+.thankyoupageChild {
+  position: absolute;
+  top: 73px;
+  left: 21px;
+  background-color: rgba(137, 229, 145, 0.13);
+  width: 1457px;
+  height: 1096px;
+}
+.thankyoupageItem {
+  position: absolute;
+  top: 195px;
+  left: 176px;
+  border-radius: var(--br-mini);
+  width: 1134px;
+  height: 804px;
+  object-fit: cover;
+}
+.fnShape011Icon,
+.image1Icon {
+  position: absolute;
+  top: 258px;
+  left: 210px;
+  width: 115px;
+  height: 116px;
+  object-fit: cover;
+}
+.fnShape011Icon {
+  left: 354px;
+  width: 764px;
+  height: 679px;
+  opacity: 0.7;
+}
+.thankYou {
+  margin: 0;
+}
+.thankYouForContainer {
+  position: absolute;
+  top: 479px;
+  left: 470px;
+  line-height: 75px;
+  font-weight: 600;
+  display: inline-block;
+  width: 539px;
+}
+.thankyoupageInner {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1485px;
+  height: 500px;
+}
+.quickLinksUseful {
+  position: absolute;
+  top: 254px;
+  left: 566px;
+  font-size: var(--font-size-lg);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 194px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgreen-100);
+  width: 1052px;
+  height: 200px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 28px;
+  left: 716px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 146px;
+}
+.subscribeOurNewsletter,
+.wantToGet {
+  position: absolute;
+  top: 37px;
+  left: 249px;
+  font-size: var(--font-size-6xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  color: var(--color-black);
+}
+.wantToGet {
+  top: 89px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-400);
+  display: inline-block;
+  width: 392px;
+  height: 78px;
+}
+.thankyoupageChild1 {
+  position: absolute;
+  top: 73px;
+  left: 252px;
+  max-height: 100%;
+  width: 165px;
+}
+.thankyoupageChild2,
+.thankyoupageChild3 {
+  position: absolute;
+  top: 68px;
+  left: 760px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 438px;
+  height: 60px;
+}
+.thankyoupageChild3 {
+  top: 67px;
+  left: 1062px;
+  background-color: var(--color-black);
+  width: 136px;
+  height: 61px;
+}
+.subsribe {
+  position: absolute;
+  top: 88px;
+  left: 1094px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+}
+.groupIcon,
+.thankyoupageChild4,
+.thankyoupageChild5 {
+  position: absolute;
+  height: 0.53%;
+  width: 3.77%;
+  top: 49.82%;
+  right: 58.11%;
+  bottom: 49.65%;
+  left: 38.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thankyoupageChild4,
+.thankyoupageChild5 {
+  right: 42.63%;
+  left: 53.6%;
+}
+.thankyoupageChild5 {
+  right: 27.81%;
+  left: 68.42%;
+}
+.homeAboutUsContainer {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  line-height: 30px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.groupChild,
+.groupChild1,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 12px;
+}
+.groupChild1,
+.groupInner,
+.groupItem {
+  top: 38px;
+}
+.groupChild1,
+.groupInner {
+  top: 70px;
+}
+.groupChild1 {
+  top: 99px;
+}
+.helpCenterContactUsFaqParParent,
+.homeAboutUsCareersNewsAParent {
+  position: absolute;
+  top: 305px;
+  left: 572px;
+  width: 118px;
+  height: 120px;
+  font-size: var(--font-size-sm);
+}
+.helpCenterContactUsFaqParParent {
+  left: 799px;
+  width: 137px;
+}
+.am5,
+.autQuaeConvallis {
+  position: absolute;
+  top: 305px;
+  left: 1042px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.autQuaeConvallis {
+  top: 338px;
+  line-height: 18px;
+  display: inline-block;
+  width: 206px;
+  height: 52px;
+}
+.thankyoupageChild6,
+.vectorIcon1 {
+  position: absolute;
+  height: 2.47%;
+  width: 0.94%;
+  top: 54.59%;
+  right: 31.11%;
+  bottom: 42.93%;
+  left: 67.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thankyoupageChild6 {
+  height: 3.18%;
+  top: 60.05%;
+  right: 31.04%;
+  bottom: 36.77%;
+  left: 68.01%;
+}
+.thankyoupageChild7 {
+  position: absolute;
+  top: 403px;
+  left: 1042px;
+  width: 12px;
+  height: 12px;
+}
+.thankyoupageChild8,
+.thankyoupageChild9,
+.veroTemporMorbi {
+  position: absolute;
+  top: 403px;
+  left: 1062px;
+  width: 12px;
+  height: 12px;
+}
+.thankyoupageChild9,
+.veroTemporMorbi {
+  left: 1083px;
+}
+.veroTemporMorbi {
+  top: 354px;
+  left: 210px;
+  line-height: 18px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 287px;
+  height: 53px;
+}
+.thankyoupageChild10 {
+  position: absolute;
+  top: 482px;
+  left: 12px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 84px;
+}
+.copyright2022,
+.enterYourEmail,
+.privacyPolicy {
+  position: absolute;
+  line-height: 18px;
+  font-weight: 600;
+}
+.privacyPolicy {
+  top: 517px;
+  left: 875px;
+  white-space: pre-wrap;
+}
+.copyright2022,
+.enterYourEmail {
+  top: 514px;
+  left: 194px;
+}
+.enterYourEmail {
+  top: 88px;
+  left: 794px;
+  font-size: var(--font-size-lg);
+  line-height: 25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  display: flex;
+  align-items: flex-end;
+  width: 275px;
+  height: 22px;
+}
+.thankyoupage1 {
+  position: absolute;
+  top: 1049px;
+  left: 0;
+  width: 1485px;
+  height: 566px;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-mulish);
+}
+.thankyoupage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1615px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-46xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

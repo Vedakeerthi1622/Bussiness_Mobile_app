@@ -1,0 +1,977 @@
+.contactpageChild {
+  position: absolute;
+  top: 1013px;
+  left: 292px;
+  box-shadow: 0 0 10px rgba(105, 202, 132, 0.26);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 560px;
+  height: 58px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-floralwhite);
+  width: 1452px;
+  height: 698px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 5.59%;
+  width: 1.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon {
+  top: 47.28%;
+  right: 89.67%;
+  bottom: 47.13%;
+  left: 8.82%;
+  object-fit: contain;
+}
+.vectorIcon1 {
+  top: 51.58%;
+  right: 9.92%;
+  bottom: 42.84%;
+  left: 88.57%;
+}
+.reviewsFromStudents {
+  position: absolute;
+  top: 47px;
+  left: 547px;
+  font-size: var(--font-size-11xl);
+  line-height: 40px;
+  text-transform: capitalize;
+  font-weight: 600;
+  text-align: center;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 15px rgba(101, 184, 125, 0.28);
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 500px;
+  height: 306px;
+}
+.jennyWilson {
+  position: absolute;
+  top: 200px;
+  left: 228px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  position: absolute;
+  height: 3.27%;
+  width: 2%;
+  top: 73.86%;
+  right: 41%;
+  bottom: 22.88%;
+  left: 57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  right: 43.8%;
+  left: 54.2%;
+}
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  right: 46.8%;
+  left: 51.2%;
+}
+.vectorIcon5,
+.vectorIcon6 {
+  right: 49.6%;
+  left: 48.4%;
+}
+.vectorIcon6 {
+  right: 52.4%;
+  left: 45.6%;
+}
+.aro1Icon {
+  position: absolute;
+  top: 139px;
+  left: 130px;
+  width: 83px;
+  height: 61px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  top: 168px;
+  left: 355.5px;
+  width: 23px;
+  height: 21px;
+}
+.invertedCommasTop1Icon {
+  position: absolute;
+  top: 181px;
+  left: 36px;
+  width: 66px;
+  height: 63px;
+  object-fit: cover;
+}
+.whileTheConcept {
+  position: absolute;
+  top: 55px;
+  left: 48px;
+  line-height: 20px;
+  text-transform: capitalize;
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 412px;
+  height: 102px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 176px;
+  left: 351px;
+  border-radius: 50%;
+  background-color: var(--color-lavender);
+  width: 92px;
+  height: 92px;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 183px;
+  left: 358px;
+  width: 78px;
+  height: 78px;
+  object-fit: cover;
+}
+.rectangleContainer,
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 216px;
+  left: 192px;
+  width: 500px;
+  height: 306px;
+}
+.rectangleContainer,
+.rectangleParent {
+  left: 740px;
+}
+.rectangleParent {
+  top: 1436px;
+  left: 15px;
+  width: 1452px;
+  height: 698px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+}
+.groupChild3 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1485px;
+  height: 500px;
+}
+.quickLinksUseful {
+  position: absolute;
+  top: 254px;
+  left: 566px;
+  font-size: var(--font-size-lg);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.groupChild4 {
+  position: absolute;
+  top: 0;
+  left: 194px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgreen-100);
+  width: 1052px;
+  height: 200px;
+}
+.groupChild5 {
+  position: absolute;
+  top: 28px;
+  left: 716px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 146px;
+}
+.subscribeOurNewsletter,
+.wantToGet {
+  position: absolute;
+  top: 37px;
+  left: 249px;
+  font-size: var(--font-size-6xl);
+  line-height: 20px;
+  text-transform: capitalize;
+  color: var(--color-black);
+}
+.wantToGet {
+  top: 89px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-400);
+  display: inline-block;
+  width: 392px;
+  height: 78px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 73px;
+  left: 252px;
+  max-height: 100%;
+  width: 165px;
+}
+.groupChild7,
+.groupChild8 {
+  position: absolute;
+  top: 68px;
+  left: 760px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 438px;
+  height: 60px;
+}
+.groupChild8 {
+  top: 67px;
+  left: 1062px;
+  background-color: var(--color-black);
+  width: 136px;
+  height: 61px;
+}
+.subsribe {
+  position: absolute;
+  top: 88px;
+  left: 1094px;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+}
+.groupChild10,
+.groupChild9,
+.groupIcon {
+  position: absolute;
+  height: 0.53%;
+  width: 3.77%;
+  top: 49.82%;
+  right: 58.11%;
+  bottom: 49.65%;
+  left: 38.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild10,
+.groupChild9 {
+  right: 42.63%;
+  left: 53.6%;
+}
+.groupChild10 {
+  right: 27.81%;
+  left: 68.42%;
+}
+.home {
+  margin: 0;
+}
+.homeAboutUsContainer {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  line-height: 30px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.groupChild11,
+.groupChild12,
+.groupChild13,
+.groupChild14 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 12px;
+}
+.groupChild12,
+.groupChild13,
+.groupChild14 {
+  top: 38px;
+}
+.groupChild13,
+.groupChild14 {
+  top: 70px;
+}
+.groupChild14 {
+  top: 99px;
+}
+.helpCenterContactUsFaqParParent,
+.homeAboutUsCareersNewsAParent {
+  position: absolute;
+  top: 305px;
+  left: 572px;
+  width: 118px;
+  height: 120px;
+  font-size: var(--font-size-sm);
+}
+.helpCenterContactUsFaqParParent {
+  left: 799px;
+  width: 137px;
+}
+.am5,
+.autQuaeConvallis {
+  position: absolute;
+  top: 305px;
+  left: 1042px;
+  line-height: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.autQuaeConvallis {
+  top: 338px;
+  line-height: 18px;
+  display: inline-block;
+  width: 206px;
+  height: 52px;
+}
+.groupChild19,
+.vectorIcon12 {
+  position: absolute;
+  height: 2.47%;
+  width: 0.94%;
+  top: 54.59%;
+  right: 31.11%;
+  bottom: 42.93%;
+  left: 67.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild19 {
+  height: 3.18%;
+  top: 60.05%;
+  right: 31.04%;
+  bottom: 36.77%;
+  left: 68.01%;
+}
+.groupChild20,
+.groupChild21,
+.groupChild22,
+.veroTemporMorbi {
+  position: absolute;
+  top: 403px;
+  left: 1042px;
+  width: 12px;
+  height: 12px;
+}
+.groupChild21,
+.groupChild22,
+.veroTemporMorbi {
+  left: 1062px;
+}
+.groupChild22,
+.veroTemporMorbi {
+  left: 1083px;
+}
+.veroTemporMorbi {
+  top: 354px;
+  left: 210px;
+  line-height: 18px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 287px;
+  height: 53px;
+}
+.groupChild23 {
+  position: absolute;
+  top: 482px;
+  left: 12px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 84px;
+}
+.copyright2022,
+.enterYourEmail,
+.privacyPolicy {
+  position: absolute;
+  line-height: 18px;
+  font-weight: 600;
+}
+.privacyPolicy {
+  top: 517px;
+  left: 875px;
+  white-space: pre-wrap;
+}
+.copyright2022,
+.enterYourEmail {
+  top: 514px;
+  left: 194px;
+}
+.enterYourEmail {
+  top: 88px;
+  left: 794px;
+  font-size: var(--font-size-lg);
+  line-height: 25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  display: flex;
+  align-items: flex-end;
+  width: 275px;
+  height: 22px;
+}
+.groupDiv {
+  position: absolute;
+  top: 2076px;
+  left: 9px;
+  width: 1485px;
+  height: 566px;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+}
+.contactpageItem {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1440px;
+  height: 378px;
+}
+.aboutUs1,
+.contact,
+.features,
+.home1 {
+  position: absolute;
+  top: 0;
+  line-height: 25px;
+  font-weight: 600;
+}
+.home1 {
+  left: 0;
+  cursor: pointer;
+}
+.aboutUs1,
+.contact,
+.features {
+  left: 82px;
+}
+.contact,
+.features {
+  left: 192px;
+}
+.contact {
+  left: 304px;
+}
+.homeParent {
+  position: absolute;
+  top: 35px;
+  left: 944px;
+  width: 379px;
+  height: 25px;
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
+.contact1 {
+  position: absolute;
+  top: 177px;
+  left: 1082px;
+  font-size: var(--font-size-16xl);
+  line-height: 25px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.contactpageInner {
+  position: absolute;
+  top: 112px;
+  left: 136px;
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 266px;
+  height: 259px;
+}
+.banner2man1Icon {
+  position: absolute;
+  top: 44px;
+  left: 178px;
+  width: 257px;
+  height: 341px;
+  object-fit: contain;
+}
+.vectorIcon13,
+.vectorIcon14 {
+  width: 80%;
+  right: 13.6%;
+  left: 6.4%;
+  max-height: 100%;
+}
+.vectorIcon13 {
+  position: absolute;
+  height: 7.17%;
+  top: 16.58%;
+  bottom: 76.24%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.vectorIcon14 {
+  height: 8.96%;
+  top: 0;
+  bottom: 91.04%;
+}
+.groupChild24,
+.groupChild25,
+.vectorIcon14 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+}
+.groupChild24 {
+  height: 8.96%;
+  width: 80%;
+  top: 30.48%;
+  right: 13.6%;
+  bottom: 60.56%;
+  left: 6.4%;
+  max-height: 100%;
+}
+.groupChild25 {
+  top: 97px;
+  left: 10.6px;
+  height: 42px;
+}
+.followUs {
+  position: absolute;
+  top: 223.1px;
+  left: 0;
+  line-height: 25px;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vectorParent {
+  position: absolute;
+  height: 8.44%;
+  width: 1.61%;
+  top: 8.4%;
+  right: 10.96%;
+  bottom: 83.15%;
+  left: 87.43%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-poppins);
+}
+.contactpageChild1 {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(137, 229, 145, 0.03),
+    rgba(137, 229, 145, 0.13) 50%,
+    rgba(137, 229, 145, 0.03)
+  );
+  width: 1457px;
+  height: 1096px;
+}
+.image1Icon {
+  position: absolute;
+  top: 484px;
+  left: 1315px;
+  width: 115px;
+  height: 116px;
+  object-fit: cover;
+}
+.icon,
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  position: absolute;
+  top: 334px;
+  left: 21px;
+  width: 170px;
+  height: 64px;
+  object-fit: cover;
+}
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  left: 191px;
+}
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  left: 361px;
+}
+.icon3,
+.icon4,
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  left: 531px;
+}
+.icon4,
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  left: 701px;
+}
+.icon5,
+.icon6,
+.icon7,
+.icon8 {
+  left: 871px;
+}
+.icon6,
+.icon7,
+.icon8 {
+  left: 1041px;
+}
+.icon7,
+.icon8 {
+  left: 1211px;
+}
+.icon8 {
+  left: 1381px;
+}
+.contactUs1 {
+  position: absolute;
+  top: 495px;
+  left: 631px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+}
+.contactpageChild2 {
+  position: absolute;
+  top: 448px;
+  left: 670px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lightyellow);
+  width: 130px;
+  height: 38px;
+}
+.features1 {
+  position: absolute;
+  top: 454px;
+  left: 704px;
+  font-size: var(--font-size-mini);
+  line-height: 25px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.contactpageChild3 {
+  position: absolute;
+  top: 616px;
+  left: 190px;
+  box-shadow: 0 0 15px rgba(49, 196, 57, 0.15);
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 1134px;
+  height: 804px;
+}
+.contactpageChild4 {
+  position: absolute;
+  top: 1307px;
+  left: 292px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-black);
+  width: 198px;
+  height: 60px;
+  cursor: pointer;
+}
+.send {
+  position: absolute;
+  top: 1324px;
+  left: 367px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.contactpageChild5,
+.contactpageChild6 {
+  position: absolute;
+  top: 807px;
+  left: 990px;
+  max-height: 100%;
+  width: 270px;
+}
+.contactpageChild6 {
+  top: 893px;
+}
+.visitUs {
+  position: absolute;
+  top: 733px;
+  left: 1048px;
+  font-size: var(--font-size-sm);
+  line-height: 25px;
+  text-transform: capitalize;
+}
+.contactpageChild7 {
+  position: absolute;
+  top: 710px;
+  left: 932px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 546px;
+}
+.contactpageChild8 {
+  position: absolute;
+  top: 758px;
+  left: 292px;
+  box-shadow: 0 0 10px rgba(105, 202, 132, 0.26);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 560px;
+  height: 58px;
+}
+.enterYourName {
+  position: absolute;
+  top: 779px;
+  left: 320px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  display: flex;
+  align-items: flex-end;
+  width: 275px;
+  height: 22px;
+}
+.contactpageChild9,
+.name {
+  position: absolute;
+  left: 292px;
+}
+.name {
+  top: 717px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: var(--color-midnightblue);
+}
+.contactpageChild9 {
+  top: 888px;
+  box-shadow: 0 0 10px rgba(105, 202, 132, 0.26);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 560px;
+  height: 58px;
+}
+.enterYourEmail1,
+.enterYourNumber {
+  position: absolute;
+  top: 911px;
+  left: 309px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  display: flex;
+  align-items: flex-end;
+  width: 275px;
+  height: 22px;
+}
+.enterYourEmail1 {
+  top: 1034px;
+}
+.email,
+.phoneNumber,
+.yourMessage {
+  position: absolute;
+  top: 848px;
+  left: 292px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: var(--color-midnightblue);
+}
+.email,
+.yourMessage {
+  top: 977px;
+}
+.yourMessage {
+  top: 1105px;
+}
+.contactpageChild10 {
+  position: absolute;
+  top: 1143px;
+  left: 292px;
+  box-shadow: 0 0 10px rgba(105, 202, 132, 0.26);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 560px;
+  height: 113px;
+}
+.divisionStNewContainer {
+  position: absolute;
+  top: 12px;
+  left: 56px;
+  line-height: 18px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.groupChild26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 39px;
+  height: 39px;
+}
+.groupChild27 {
+  position: absolute;
+  height: 48.75%;
+  width: 8.35%;
+  top: 18.75%;
+  right: 87.11%;
+  bottom: 32.5%;
+  left: 4.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divisionStNewYorkNy1000Parent {
+  position: absolute;
+  top: 746px;
+  left: 992px;
+  width: 218px;
+  height: 48px;
+  font-size: 12px;
+  color: var(--color-darkslategray-300);
+}
+.div,
+.phoneNumber1 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.div {
+  top: 25px;
+  left: 59px;
+  line-height: 18px;
+  font-weight: 500;
+}
+.phoneNumber1 {
+  top: 0;
+  left: 58px;
+  line-height: 25px;
+  color: var(--color-black);
+}
+.groupChild28 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 39px;
+  height: 39px;
+}
+.groupChild29 {
+  position: absolute;
+  height: 54.42%;
+  width: 9.05%;
+  top: 27.91%;
+  right: 86.02%;
+  bottom: 17.67%;
+  left: 4.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.parent {
+  position: absolute;
+  top: 827px;
+  left: 989px;
+  width: 201px;
+  height: 43px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-300);
+}
+.adminadmincom {
+  position: absolute;
+  top: 27px;
+  left: 59px;
+  line-height: 18px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.groupChild30 {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  width: 39px;
+  height: 39px;
+}
+.groupChild31 {
+  position: absolute;
+  height: 50.87%;
+  width: 9.53%;
+  top: 34.78%;
+  right: 85.29%;
+  bottom: 14.35%;
+  left: 5.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.adminadmincomParent {
+  position: absolute;
+  top: 904px;
+  left: 989px;
+  width: 191px;
+  height: 46px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-300);
+}
+.maskGroupIcon2 {
+  position: absolute;
+  top: 998px;
+  left: 985px;
+  width: 280px;
+  height: 217px;
+  object-fit: cover;
+}
+.contactpage {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  height: 2642px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
